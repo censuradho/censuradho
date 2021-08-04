@@ -1,6 +1,6 @@
 ### Ola devs 👋
 
-Conhecimento ter para uma vida melhor viver Alien on HTC Sense 7
+Conhecimento ter para uma vida melhor viver 👽
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/49209628/128193418-f24a3f39-f0e5-4187-8c77-951ca29eca74.gif" />
 
