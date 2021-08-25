@@ -9,7 +9,7 @@ const about = {
   name: "Gustavo Leite Oliveira",
   created_at: "20-04-1996",
   current_country: "Brazil",
-  description: "Trabalho com Frontend majoritariamente usando React.js para aplicações SPA, estudo Analise e desenvolvimento de software",
+  description: "Trabalho com Frontend majoritariamente usando React.js para aplicações SPA, estudo Sistemas para internet",
   programming_languages: ["JavaScript", "Typescript", "Python"],
   tags: ["React.js", "React Native", "CSS-in-JS", "Typescript", "Next.js", "SEO", "Front-end", "Desenvolvedor"]
 }
