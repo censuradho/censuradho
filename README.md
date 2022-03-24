@@ -2,7 +2,7 @@
 
 Conhecimento ter para uma vida melhor viver 👽
 
-Olá, meu nome é Gustavo Leite Oliveira, Atualmente trabalho com desenvolvimento web frontend, majoritariamente com a tech React.js.
+Olá, meu nome é Gustavo Leite Oliveira, Atualmente trabalho com desenvolvimento web frontend em suma com a tech React.js.
 
 
 <p align="left">
