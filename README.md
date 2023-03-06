@@ -1,9 +1,8 @@
-### Ola devs 👋
+### Hello devs 👋
 
-Conhecimento ter para uma vida melhor viver 👽
+My name is Gustavo, I'm a software developer focused on JavaScript and Typescript languages.
 
-Olá, meu nome é Gustavo Leite Oliveira, Atualmente trabalho com desenvolvimento web frontend em suma com a tech React.js/Next.js.
-
+See my [CV online]() and my [Blog post](https://gustavoleite.vercel.app/blog)
 
 <p align="left">
   <a href="#mailto:gustavoleiteoliveira800@gmail.com" alt="Gmail" target="_blank">
