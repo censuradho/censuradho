@@ -2,7 +2,7 @@
 
 My name is Gustavo, I'm a software developer focused on JavaScript and Typescript languages.
 
-See my [CV online]() and my [Blog post](https://gustavoleite.vercel.app/blog)
+See my [CV online](https://mycv-online.vercel.app/cv/gustavo-leite-oliveira) and my [Blog post](https://gustavoleite.vercel.app/blog)
 
 <p align="left">
   <a href="#mailto:gustavoleiteoliveira800@gmail.com" alt="Gmail" target="_blank">
