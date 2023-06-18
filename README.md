@@ -1,13 +1,21 @@
-### Hello devs 👋
+```diff
+Hi, I'm Gustavo 👋💻.
 
-My name is Gustavo, I'm a software developer focused on JavaScript and Typescript languages.
+@@I'm a software engineer@@
++ Living in Porto Alegre, Brazil 🇧🇷.
+- 28 years old
+# 📖 Programming languages, functional, web development
+```
 
-See my [Blog post](https://gustavoleite.vercel.app/blog)
+#### [🤜gustavoleite.vercel.app🤛](https://gustavoleite.vercel.app)
 
-<p align="left">
-  <a href="#mailto:gustavoleiteoliveira800@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+<Youre doing great>
+<Good things will come to you>
+<Drink water and stay awesome>
 
-  <a href="https://www.linkedin.com/in/gustavo-dev-front/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
+<SECRET GUEST BOOK>
+<ooooooooooooooooo>
+<ooooooooooooooooo
+|-- Your journey has brought you far friend, get some rest
+| https://a1u0.short.gy/bonfire
+|-- Nice to meet you>
