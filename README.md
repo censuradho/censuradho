@@ -4,7 +4,7 @@ Hi, I'm Gustavo 👋💻.
 @@I'm a software engineer@@
 + Living in Porto Alegre, Brazil 🇧🇷.
 - 28 years old
-# 📖 Programming languages, functional, web development
+# 📖 web development, android
 ```
 
 #### [🤜gustavoleite.vercel.app🤛](https://gustavoleite.vercel.app)
