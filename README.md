@@ -9,10 +9,6 @@ Hi, I'm Gustavo 👋💻.
 
 #### [🤜gustavoleite.vercel.app🤛](https://gustavoleite.vercel.app)
 
-<Youre doing great>
-<Good things will come to you>
-<Drink water and stay awesome>
-
 <SECRET GUEST BOOK>
 <ooooooooooooooooo>
 <ooooooooooooooooo
