@@ -3,7 +3,7 @@ Hi, I'm Gustavo 👋💻.
 
 @@I'm a software engineer@@
 + Living in Porto Alegre, Brazil 🇧🇷.
-- 28 years old
+- Made in 96s
 # 📖 web development, android
 ```
 
