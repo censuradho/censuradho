@@ -7,7 +7,7 @@ Hi, I'm Gustavo 👋💻.
 # 📖 web development, android
 ```
 
-#### [🔗 gustavoleite.vercel.app](https://gustavoleite.dev)
+#### [🔗 gustavoleite.dev](https://gustavoleite.dev)
 
 <SECRET GUEST BOOK>
 <ooooooooooooooooo>
